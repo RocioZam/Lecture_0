@@ -1,0 +1,57 @@
+@charset "UTF-8";
+<style type="text/css">
+
+#wraper {
+	padding:5px;
+	}
+
+#body {
+	padding:5px;
+}
+#wraper {
+	padding:10px;
+	background-color:#CCC;
+}
+
+.soloPruebah1 {
+	text-align: center;
+	color: #de54d9;
+	
+}
+
+h1 {
+	color: blue;
+	font-family:"Comic Sans MS", cursive;
+	text-align: center;
+}
+h2 {
+	color: #fcba03;
+	text-align: center;
+}
+
+h3 {
+	color: blue;
+	text-align: left;
+}
+
+h4 {
+	color: #fcba03;
+	text-align: left;
+}
+
+h5 {
+	color: magenta;
+	text-align: left;
+}
+
+h6 {
+	color: blue;
+	text-align: left;
+}
+
+
+	
+	
+
+</style>/* CSS Document */
+
